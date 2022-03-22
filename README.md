@@ -19,3 +19,6 @@
 SDF：https://zhuanlan.zhihu.com/p/26217154
 
 感觉原理很简单阿，就想象每个像素点都是一个圆，然后里就是负，圆上就是零，外就是正
+
+![图片](https://user-images.githubusercontent.com/50166070/159486918-1d06ba0e-70ce-4631-b06a-3d98951b326a.png)
+
